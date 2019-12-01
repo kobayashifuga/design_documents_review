@@ -1,23 +1,21 @@
-＃全体
+##全体
 - トップページがない
 
 - admin,userで分けていない
 
-- デバイスに関するURL等の記載がない
-  - [check]OKですが、"devise"と表記しましょう。端末などの意味を表すデバイスなのか、gemの"devise"なのか、混乱してしまいます。
+- deviseに関するURL等の記載がない
 
 - disc,song,artist,label,genreが存在しない
 
-＃orders
+##orders
 - indexとnewのURLが同じ
 
 
-＃User
+##User
 - 退会が物理削除になっている
 
 - 退会完了について詳細設計に書かれていない
 
-[add]
 ## ワイヤーフレーム上にあるページのURLが存在しない
 - お届け先住所変更ページ
 - 支払い方法の確定画面
